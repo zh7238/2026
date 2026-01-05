@@ -1,0 +1,10 @@
+[project]
+name = "hello-uv"
+version = "0.1.0"
+description = "餐廳推薦與隨機選擇系統"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "requests>=2.32.5",
+    "PyQt6>=6.6.0",
+]
